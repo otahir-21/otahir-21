@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Tahir</h1>
-<h3 align="center">A passionate mobile application developer from Pakistan.</h3>
+<h3 align="center">A passionate mobile application developer from United Arab Emirates</h3>
 
 - 🔭 I’m currently working os a Laravel developer [Go RealEstate](https://gogrouprealestate.vercel.app/)
 
