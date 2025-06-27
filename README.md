@@ -1,195 +1,126 @@
-# MetatechCRM - Flutter Client Portal & Admin Dashboard
+# Hi there, I'm Osama Tahir 👋 
 
 <div align="center">
-  <img src="assets/logo/Metatech-latest-logo.webp" alt="MetatechCRM Logo" width="300"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=1F37F7&center=true&vCenter=true&width=600&lines=Modern+CRM+Solution+%7C+Flutter+%2B+Laravel;Client+Portal+%7C+Admin+Dashboard;Responsive+Design+%7C+Secure+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1F37F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Laravel+Expert;API+Development+%7C+Mobile+App+Development;Flutter+Developer+%7C+System+Architecture" alt="Typing SVG" />
 </div>
 
-## 📱 Project Overview
+## 👨‍💻 About Me
 
-MetatechCRM is a comprehensive Customer Relationship Management solution built with Flutter for cross-platform compatibility and Laravel for robust backend services. The project features both a client portal and an admin dashboard with a focus on user experience, security, and scalability.
+I'm a passionate Full Stack Developer from the United Arab Emirates, specializing in Laravel, API Development, and Mobile Applications. With expertise in building robust backend systems and scalable applications, I bring ideas to life through clean, efficient code.
 
-### 🎯 Key Features
+### 🚀 What I'm Currently Working On
 
-- **Authentication & Security**
-  - 🔐 Secure Login System
-  - 🔑 Password Reset Functionality
-  - 🔒 Token-based Authentication
-  - 👤 User Profile Management
+#### MetaTech CRM System (Full Stack Project)
+- **Client Portal & Admin Dashboard (Flutter)**
+  - 📱 Cross-platform application built with Flutter
+  - Features include:
+    - 🎯 Interactive Dashboard with Analytics
+    - 👤 Advanced Profile Management
+    - 📄 Invoice Generation & Management
+    - 🎫 Support Ticket System
+    - 💬 Real-time Chat Integration
+    - 🔄 Responsive Design System
+    - 🎨 Custom Theme Management
+    - 📊 Data Visualization
 
-- **Client Portal Features**
-  - 📊 Interactive Dashboard
-  - 📝 Invoice Management
-  - 🎫 Support Ticket System
-  - 💬 Real-time Chat Support
-  - 👥 Profile Customization
+- **Backend API System (Laravel)**
+  - A comprehensive Laravel-based REST API system
+  - Features include:
+    - 🔐 Advanced Authentication System
+    - 👥 Client & Admin Management
+    - 🔄 Service Management
+    - 📱 Social Media Integration
+    - 🖼️ Profile & Avatar Management
+    - 🔒 Secure File Handling
+    - 📨 Email Notifications
+    - 🔍 Advanced Search & Filtering
 
-- **Admin Dashboard**
-  - 📈 Analytics & Reporting
-  - 👥 Client Management
-  - 📄 Invoice Generation
-  - 🎫 Ticket Management
-  - 💬 Support System Administration
+### 💼 Technical Skills
 
-## 🏗️ Project Architecture
+#### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frontend Structure (Flutter)
-```
-lib/
-├── core/                  # Core functionality
-│   ├── api_service.dart   # API integration
-│   ├── navigation.dart    # Route management
-│   └── drawer_controller.dart
-├── design_system/         # UI/UX components
-│   ├── app_colors.dart
-│   ├── app_text_styles.dart
-│   └── theme_manager.dart
-├── features/             # Main application features
-│   ├── dashboard/
-│   ├── invoice/
-│   ├── login/
-│   ├── profile/
-│   └── support/
-└── widgets/              # Reusable widgets
-```
-
-### State Management
-- **BLoC Pattern Implementation**
-  - Separate Business Logic
-  - Reactive State Management
-  - Event-Driven Architecture
-
-## 🛠️ Technical Stack
-
-### Frontend (Flutter)
+#### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend (Laravel)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+#### Frontend & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🚀 Getting Started
+### 🌟 Expertise
 
-### Prerequisites
-- Flutter SDK (latest version)
-- Dart SDK
-- Firebase CLI
-- IDE (VS Code or Android Studio)
+- **API Development**
+  - RESTful API Design
+  - API Authentication & Security
+  - Token-based Authorization
+  - API Documentation
+  - Rate Limiting & Caching
 
-### Installation
+- **Laravel Development**
+  - Custom CRM Solutions
+  - Database Architecture
+  - Service-oriented Architecture
+  - Security Implementation
+  - Real-time Features
 
-1. **Clone the repository**
-   ```bash
-   git clone [repository-url]
-   cd MetatechCRM
-   ```
+- **Flutter Development**
+  - BLoC Pattern Implementation
+  - Custom Widget Development
+  - Responsive Design Systems
+  - Cross-platform Solutions
+  - State Management
+  - UI/UX Implementation
 
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
+### 🔭 Current Focus
 
-3. **Configure Firebase**
-   ```bash
-   firebase init
-   ```
+- 🌱 Learning advanced Laravel backend patterns
+- 📱 Exploring BLoC pattern in Flutter
+- 🚀 Building scalable API architectures
+- 🔒 Implementing robust security measures
+- 💻 Developing modern UI/UX solutions
 
-4. **Run the application**
-   ```bash
-   flutter run
-   ```
+### 📫 Let's Connect
 
-## 📁 Project Structure
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otahir21/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otahir21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otahir-21)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21170336/osama-tahir)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/otahir21/)
 
-### Core Features
-- **Authentication Module**
-  - Login/Logout functionality
-  - Password reset system
-  - Session management
+### 📊 GitHub Stats
 
-- **Dashboard**
-  - Responsive layout
-  - Data visualization
-  - Quick action buttons
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otahir-21&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otahir-21&theme=radical" alt="GitHub Streak" />
+</div>
 
-- **Invoice Management**
-  - Invoice generation
-  - PDF export
-  - Payment tracking
+### 🏆 Recent Achievements
 
-- **Support System**
-  - Ticket creation
-  - Real-time chat
-  - File attachments
+- Successfully developed and deployed MetaTech CRM system with Flutter and Laravel
+- Implemented secure authentication and real-time communication features
+- Designed and developed responsive UI/UX for cross-platform applications
+- Created scalable API architecture for enterprise-level applications
+- Integrated modern state management solutions using BLoC pattern
 
-### Design System
-- Custom theme management
-- Responsive layouts
-- Consistent styling
-- Custom widgets
+### 📞 Contact
 
-## 🔒 Security Features
-
-- Secure token management
-- API request encryption
-- Rate limiting
-- Input validation
-- Secure file handling
-
-## 🌐 API Integration
-
-The application integrates with a Laravel backend API providing:
-- RESTful endpoints
-- Token-based authentication
-- Real-time updates
-- File upload/download
-- Data validation
-
-## 📱 Responsive Design
-
-- Adaptive layouts
-- Cross-platform compatibility
-- Device-specific optimizations
-- Consistent UI across devices
-
-## 🧪 Testing
-
-- Widget testing
-- Integration testing
-- BLoC testing
-- API testing
-
-## 📚 Documentation
-
-For detailed documentation about the project:
-- [API Documentation](docs/api.md)
-- [Widget Documentation](docs/widgets.md)
-- [State Management](docs/bloc.md)
-
-## 🤝 Contributing
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For any queries regarding this project, please contact:
-- 📧 Email: [Your Email]
-- 🌐 Website: [Your Website]
+- 📧 Email: otahir21@gmail.com
+- 📱 Phone: +971 50 727 6823
+- 📄 [View Resume](https://drive.google.com/file/d/1MwKeUWJYggcx7KMBfwmxmVGD_0hMFLAc/view?usp=sharing)
 
 ---
 
 <div align="center">
-  Made with ❤️ by MetaTech Team
+  <img src="https://komarev.com/ghpvc/?username=otahir-21&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
+⭐️ From [Osama Tahir](https://github.com/otahir-21)
