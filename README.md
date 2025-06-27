@@ -6,121 +6,30 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer from the United Arab Emirates, specializing in Laravel, API Development, and Mobile Applications. With expertise in building robust backend systems and scalable applications, I bring ideas to life through clean, efficient code.
+🌟 Full Stack Developer with 5+ years of experience in building enterprise-level applications
 
-### 🚀 What I'm Currently Working On
+🔧 Specializing in:
+- Laravel Backend Development & API Architecture
+- Flutter Cross-platform Application Development
+- Custom CRM Solutions & Enterprise Systems
+- Scalable System Architecture Design
 
-#### MetaTech CRM System (Full Stack Project)
-- **Client Portal & Admin Dashboard (Flutter)**
-  - 📱 Cross-platform application built with Flutter
-  - Features include:
-    - 🎯 Interactive Dashboard with Analytics
-    - 👤 Advanced Profile Management
-    - 📄 Invoice Generation & Management
-    - 🎫 Support Ticket System
-    - 💬 Real-time Chat Integration
-    - 🔄 Responsive Design System
-    - 🎨 Custom Theme Management
-    - 📊 Data Visualization
+🚀 Currently leading the development of MetaTech CRM, a comprehensive client management solution:
+- Building robust REST APIs with Laravel
+- Developing responsive Flutter applications
+- Implementing secure authentication systems
+- Creating real-time communication features
 
-- **Backend API System (Laravel)**
-  - A comprehensive Laravel-based REST API system
-  - Features include:
-    - 🔐 Advanced Authentication System
-    - 👥 Client & Admin Management
-    - 🔄 Service Management
-    - 📱 Social Media Integration
-    - 🖼️ Profile & Avatar Management
-    - 🔒 Secure File Handling
-    - 📨 Email Notifications
-    - 🔍 Advanced Search & Filtering
+💡 Passionate about:
+- Clean Code & Best Practices
+- Performance Optimization
+- Security Implementation
+- Modern UI/UX Design
 
-### 💼 Technical Skills
+🌐 Based in Dubai, UAE | Available for challenging projects and collaborations
 
-#### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🎯 Professional Journey
 
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+"I transform complex business requirements into elegant technical solutions. My approach combines modern development practices with scalable architecture design, ensuring that every project not only meets current needs but is also future-ready."
 
-#### Frontend & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🌟 Expertise
-
-- **API Development**
-  - RESTful API Design
-  - API Authentication & Security
-  - Token-based Authorization
-  - API Documentation
-  - Rate Limiting & Caching
-
-- **Laravel Development**
-  - Custom CRM Solutions
-  - Database Architecture
-  - Service-oriented Architecture
-  - Security Implementation
-  - Real-time Features
-
-- **Flutter Development**
-  - BLoC Pattern Implementation
-  - Custom Widget Development
-  - Responsive Design Systems
-  - Cross-platform Solutions
-  - State Management
-  - UI/UX Implementation
-
-### 🔭 Current Focus
-
-- 🌱 Learning advanced Laravel backend patterns
-- 📱 Exploring BLoC pattern in Flutter
-- 🚀 Building scalable API architectures
-- 🔒 Implementing robust security measures
-- 💻 Developing modern UI/UX solutions
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otahir21/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otahir21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otahir-21)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21170336/osama-tahir)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/otahir21/)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otahir-21&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otahir-21&theme=radical" alt="GitHub Streak" />
-</div>
-
-### 🏆 Recent Achievements
-
-- Successfully developed and deployed MetaTech CRM system with Flutter and Laravel
-- Implemented secure authentication and real-time communication features
-- Designed and developed responsive UI/UX for cross-platform applications
-- Created scalable API architecture for enterprise-level applications
-- Integrated modern state management solutions using BLoC pattern
-
-### 📞 Contact
-
-- 📧 Email: otahir21@gmail.com
-- 📱 Phone: +971 50 727 6823
-- 📄 [View Resume](https://drive.google.com/file/d/1MwKeUWJYggcx7KMBfwmxmVGD_0hMFLAc/view?usp=sharing)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=otahir-21&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-⭐️ From [Osama Tahir](https://github.com/otahir-21)
+// ... existing code ...
